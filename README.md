@@ -9,4 +9,4 @@ practice makes perfect
 - 783 https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 
 # FB 19
-- 426 BST to doubly linked list
+- 426 BST to doubly linked list (should get familiar with 94 first)
